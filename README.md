@@ -10,6 +10,8 @@ As atividades são cumulativas, de forma que ao final teremos um blockchain func
 
 ## Instruções de submissão
 
+Submissão deve ser feita a partir do GitHub Classroom até às 23:59 do dia 07/02/2021. Basta realizar o *commit* do seu arquivo `blockchain.py` no repositório privado criado para você a partir do link disponibilizado. Qualquer dúvida nesta etapa consulte o professor no Discord.
+
 ## Instalação
 
 Baixe o arquivo `./blockchain.py` para obter o *boilerplate* para esta atividade. Caso seja necessário, utilize o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar os módulos necessários. Todos os *boilerplates* são compatíveis com o Python 3+.
