@@ -1,4 +1,4 @@
-# NOME DO ALUNO: **<EDITE AQUI COM O SEU NOME COMPLETO!>**
+# ALUNO: **<EDITE AQUI COM O SEU NOME COMPLETO!>**
 
 # Atividade: Hashing (01-hashing)
 
